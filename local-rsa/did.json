@@ -7,12 +7,7 @@
     "verificationMethod": [
         {
             "controller": "did:web:piyush7034.github.io:DID:local-rsa",
-            "publicKeyJwk": {
-                "kty": "RSA",
-                "e": "AQAB",
-                "kid": "d4CXS3HFH8S3Dn7TMqAaC3yZdgiZxG0Xu4wHrHrQyvc",
-                "n": "sjZtbLflHJgIBT57NBtzLV5BK71wlUJ0CpYL1dTlDQPOYcgdLQkm-VlDSWIZWsVnfyVgYrGAYE0r9axQB_9e82xHOdc9Meemjz2r8JYXCTVpuWwhLdzYTJ5JHHYMoRkcK3umx_zpOuD186DsPVyMba60Frv5ebLxXlpSzne0KTZU9Ggg9mXu_7YyuiJysCnpRLU5Ufzd11Q4n3GLXR2b4QsCrM8FsOjgJVOHj6dkPwq34vVbQCyOxUHGuQ8QTppxj4eFAXur7YaIK92gUXCFtsWcRcfM9_IiLtLyC0ZezSEt4PAgw2w3EdsIhJnYtWFwlVISeKii3wgOKfyF6c045Q"
-            },
+            "publicKeyPem": "-----BEGIN PUBLIC KEY-----\r\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsjZtbLflHJgIBT57NBtz\r\nLV5BK71wlUJ0CpYL1dTlDQPOYcgdLQkm+VlDSWIZWsVnfyVgYrGAYE0r9axQB\/9e\r\n82xHOdc9Meemjz2r8JYXCTVpuWwhLdzYTJ5JHHYMoRkcK3umx\/zpOuD186DsPVyM\r\nba60Frv5ebLxXlpSzne0KTZU9Ggg9mXu\/7YyuiJysCnpRLU5Ufzd11Q4n3GLXR2b\r\n4QsCrM8FsOjgJVOHj6dkPwq34vVbQCyOxUHGuQ8QTppxj4eFAXur7YaIK92gUXCF\r\ntsWcRcfM9\/IiLtLyC0ZezSEt4PAgw2w3EdsIhJnYtWFwlVISeKii3wgOKfyF6c04\r\n5QIDAQAB\r\n-----END PUBLIC KEY-----",
             "id": "did:web:piyush7034.github.io:DID:local-rsa#d4CXS3HFH8S3Dn7TMqAaC3yZdgiZxG0Xu4wHrHrQyvc",
             "type": "RsaVerificationKey2018",
             "@context": "https://w3id.org/security/suites/jws-2020/v1"
