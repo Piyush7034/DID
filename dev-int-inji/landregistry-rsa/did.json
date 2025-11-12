@@ -1,28 +1,28 @@
 {
   "assertionMethod": [
-    "did:web:mosip.github.io:inji-config:collab:landregistry"
+    "did:web:piyush7034.github.io:DID:dev-int-inji:landregistry-rsa"
   ],
   "service": [],
-  "id": "did:web:mosip.github.io:inji-config:collab:landregistry",
+  "id": "did:web:piyush7034.github.io:DID:dev-int-inji:landregistry-rsa",
   "verificationMethod": [
     {
-      "controller": "did:web:mosip.github.io:inji-config:collab:landregistry",
+      "controller": "did:web:piyush7034.github.io:DID:dev-int-inji:landregistry-rsa",
       "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0P6AVg9dbnhKHRaBxqCf\nbTuaohYnU3Yahxdp7V1msE+5KDkXW8eCCCJlUNESwGIfvYTkwVIurCsWSNuctP/m\n4S1BUMkCVJOyAGRauJxPE/cKXMFv7ofI6gQMymtnUQQedMKe5rrICWJ0at90RHsg\njgMW56FyGn4hsObKeyPkR+OHjqrqAQN51S2ej7mcFQxec73J47wkdOUnOq7m5JP2\nZPUFpMdGGTGjM2LnzDbfCsx+3zKzV2umUPEYpIe64m2yvC1OgtB72MiruG1jdkei\naoht9gwfDO6dyEpvvJRjZ62tCJfWY8tLCMsBTSffjNLDaVIK1cYc2LQRKiDED+Lp\nOwIDAQAB\n-----END PUBLIC KEY-----",
-      "id": "did:web:mosip.github.io:inji-config:collab:landregistry#5IH4rkuLcCaJqQRi7B63JEmn_dWede2O_QzQp106uvo",
+      "id": "did:web:piyush7034.github.io:DID:dev-int-inji:landregistry-rsa#5IH4rkuLcCaJqQRi7B63JEmn_dWede2O_QzQp106uvo",
       "type": "RsaVerificationKey2018",
       "@context": "https://w3id.org/security/v1"
     },
     {
       "publicKeyMultibase": "zDnaeYQejFaUZAPs9T8JpD1Ny4ZpMr87cRMBobNhpKm2UtWf3",
-      "controller": "did:web:mosip.github.io:inji-config:collab:landregistry",
-      "id": "did:web:mosip.github.io:inji-config:collab:landregistry#IKOwWkF3szgayvy2nJk8X6mhfdY2LVfv5x66q7bB60k",
+      "controller": "did:web:piyush7034.github.io:DID:dev-int-inji:landregistry-rsa",
+      "id": "did:web:piyush7034.github.io:DID:dev-int-inji:landregistry-rsa#IKOwWkF3szgayvy2nJk8X6mhfdY2LVfv5x66q7bB60k",
       "type": "EcdsaSecp256r1VerificationKey2019",
       "@context": "https://w3id.org/security/suites/ecdsa-2019/v1"
     },
     {
       "publicKeyMultibase": "z6MkgvzTGvN9pGL4HVFngp9zZkmC7y7nJkJ4x47U38h9aL67",
-      "controller": "did:web:mosip.github.io:inji-config:collab:landregistry",
-      "id": "did:web:mosip.github.io:inji-config:collab:landregistry#gGBFKVkGYzO6Bu4GHEx6jerkM_gv5dFo3twIQgQI83k",
+      "controller": "did:web:piyush7034.github.io:DID:dev-int-inji:landregistry-rsa",
+      "id": "did:web:piyush7034.github.io:DID:dev-int-inji:landregistry-rsa#gGBFKVkGYzO6Bu4GHEx6jerkM_gv5dFo3twIQgQI83k",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
@@ -32,6 +32,6 @@
   ],
   "alsoKnownAs": [],
   "authentication": [
-    "did:web:mosip.github.io:inji-config:collab:landregistry"
+    "did:web:piyush7034.github.io:DID:dev-int-inji:landregistry-rsa"
   ]
 }
